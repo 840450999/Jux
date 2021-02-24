@@ -458,4 +458,3 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ })
 
 /******/ });
-alert('MY Name is 皮皮英(。・∀・)ノ')
